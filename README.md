@@ -41,7 +41,7 @@
 2.  **Text-CNN (深蓝色柱状图)**：速度极快（<1ms），但牺牲了大量精度，F1 分数最低。
 3.  **TinyBERT (中间蓝色柱状图)**：**完美平衡点**。它将延迟降低到 BERT 的 1/1.7，同时保留了绝大部分的精度优势。
 
-![性能与延迟对比图]()
+![性能与延迟对比图](https://github.com/2376708518/TinyBERT/blob/main/final_comparison.png)
 *图：Performance vs Latency Comparison*
 
 ---
